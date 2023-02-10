@@ -38,10 +38,6 @@ mercado.addEventListener("submit",(event) => {
 
 impressosM.value = " ";
 horarioImpressaoM.value = " ";
-horarioConferenciaM.value = " ";
-conferidosM.value = " ";
-embalouM.value = " ";
-nembalouM.value = " ";
 observacaoM.value = " ";
 
   
@@ -67,10 +63,6 @@ shopee.addEventListener("submit", (event) => {
 
   impressosS.value = " ";
   horarioImpressaoS.value = " ";
-  horarioConferenciaS.value = " ";
-  conferidosS.value = " ";
-  embalouS.value = " ";
-  nembalouS.value = " ";
   observacaoS.value = " ";
 })
 
@@ -94,10 +86,6 @@ amazom.addEventListener("submit", (event) => {
 
   impressosA.value = " ";
   horarioImpressaoA.value = " ";
-  horarioConferenciaA.value = " ";
-  conferidosA.value = " ";
-  embalouA.value = " ";
-  nembalouA.value = " ";
   observacaoA.value = " ";
 })
 
@@ -120,10 +108,6 @@ b2w.addEventListener("submit", (event) => {
 
   impressosB.value = " ";
   horarioImpressaoB.value = " ";
-  horarioConferenciaB.value = " ";
-  conferidosB.value = " ";
-  embalouB.value = " ";
-  nembalouB.value = " ";
   observacaoB.value = " ";
   
 })
@@ -147,10 +131,6 @@ drive.addEventListener("submit", (event) => {
 
   impressosD.value = " ";
   horarioImpressaoD.value = " ";
-  horarioConferenciaD.value = " ";
-  conferidosD.value = " ";
-  embalouD.value = " ";
-  nembalouD.value = " ";
   observacaoD.value = " ";
   
 })
