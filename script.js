@@ -33,7 +33,6 @@ mercado.addEventListener("submit",(event) => {
    data: data.value,
    impressos: impressosM.value,
    horario_da_impressao: horarioImpressaoM.value,
-   numero_de_pedidos_embalados: nembalouM.value,
    obsevacao: observacaoM.value
 })
 
@@ -62,7 +61,6 @@ shopee.addEventListener("submit", (event) => {
     data: data.value,
     impressos: impressosS.value,
     horario_da_impressao: horarioImpressaoS.value,
-    numero_de_pedidos_embalados: nembalouS.value,
     obsevacao: observacaoS.value
     
   })
@@ -90,7 +88,6 @@ amazom.addEventListener("submit", (event) => {
     data: data.value,
     impressos: impressosA.value,
     horario_da_impressao: horarioImpressaoA.value,
-    numero_de_pedidos_embalados: nembalouA.value,
     obsevacao: observacaoA.value
     
   })
@@ -118,7 +115,6 @@ b2w.addEventListener("submit", (event) => {
     data: data.value,
     impressos: impressosB.value,
     horario_da_impressao: horarioImpressaoB.value,
-    numero_de_pedidos_embalados: nembalouB.value,
     obsevacao: observacaoB.value
   })
 
@@ -146,7 +142,6 @@ drive.addEventListener("submit", (event) => {
     data: data.value,
     impressos: impressosD.value,
     horario_da_impressao: horarioImpressaoD.value,
-    numero_de_pedidos_embalados: nembalouD.value,
     obsevacao: observacaoD.value
   })
 
