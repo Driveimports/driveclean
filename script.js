@@ -33,9 +33,6 @@ mercado.addEventListener("submit",(event) => {
    data: data.value,
    impressos: impressosM.value,
    horario_da_impressao: horarioImpressaoM.value,
-   horario_da_conferencia: horarioConferenciaM.value,
-   numero_de_pedidos_conferidos: conferidosM.value,
-   quem_embalou: embalouM.value,
    numero_de_pedidos_embalados: nembalouM.value,
    obsevacao: observacaoM.value
 })
@@ -65,9 +62,6 @@ shopee.addEventListener("submit", (event) => {
     data: data.value,
     impressos: impressosS.value,
     horario_da_impressao: horarioImpressaoS.value,
-    horario_da_conferencia: horarioConferenciaS.value,
-    numero_de_pedidos_conferidos: conferidosS.value,
-    quem_embalou: embalouS.value,
     numero_de_pedidos_embalados: nembalouS.value,
     obsevacao: observacaoS.value
     
@@ -96,9 +90,6 @@ amazom.addEventListener("submit", (event) => {
     data: data.value,
     impressos: impressosA.value,
     horario_da_impressao: horarioImpressaoA.value,
-    horario_da_conferencia: horarioConferenciaA.value,
-    numero_de_pedidos_conferidos: conferidosA.value,
-    quem_embalou: embalouA.value,
     numero_de_pedidos_embalados: nembalouA.value,
     obsevacao: observacaoA.value
     
@@ -127,9 +118,6 @@ b2w.addEventListener("submit", (event) => {
     data: data.value,
     impressos: impressosB.value,
     horario_da_impressao: horarioImpressaoB.value,
-    horario_da_conferencia: horarioConferenciaB.value,
-    numero_de_pedidos_conferidos: conferidosB.value,
-    quem_embalou: embalouB.value,
     numero_de_pedidos_embalados: nembalouB.value,
     obsevacao: observacaoB.value
   })
@@ -158,9 +146,6 @@ drive.addEventListener("submit", (event) => {
     data: data.value,
     impressos: impressosD.value,
     horario_da_impressao: horarioImpressaoD.value,
-    horario_da_conferencia: horarioConferenciaD.value,
-    numero_de_pedidos_conferidos: conferidosD.value,
-    quem_embalou: embalouD.value,
     numero_de_pedidos_embalados: nembalouD.value,
     obsevacao: observacaoD.value
   })
